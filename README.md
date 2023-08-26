@@ -1,7 +1,8 @@
+# I optimized its code for speed. Training on GPUs and CPUs is about 4 times faster than previous code.
 # ImporvedRelationalGraphLearning
 This repository contains the codes for our paper, which is accepted at IROS 2020. 
 For more details, please refer to the [paper](https://arxiv.org/abs/1909.13165).
-# I optimized its code for speed. Training on GPUs and CPUs is about 4 times faster than source code training.
+
 
 
 ## Abstract
