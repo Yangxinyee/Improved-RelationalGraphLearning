@@ -57,21 +57,4 @@ python utils/plot.py data/output/output.log
 
 ## Video Demo
 [<img src="https://i.imgur.com/SnqVhit.png" width="70%">](https://youtu.be/U3quW30Eu3A)
-
-
-## Citation
-If you find the codes or paper useful for your research, please cite the following papers:
-```bibtex
-@inproceedings{chen2020relational,
-    title={Relational Graph Learning for Crowd Navigation},
-    author={Changan Chen and Sha Hu and Payam Nikdel and Greg Mori and Manolis Savva},
-    year={2020},
-    booktitle={IROS}
-}
-@inproceedings{chen2019crowdnav,
-    title={Crowd-Robot Interaction: Crowd-aware Robot Navigation with Attention-based Deep Reinforcement Learning},
-    author={Changan Chen and Yuejiang Liu and Sven Kreiss and Alexandre Alahi},
-    year={2019},
-    booktitle={ICRA}
-}
 ```
