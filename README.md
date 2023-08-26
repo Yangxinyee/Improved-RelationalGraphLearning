@@ -1,2 +1,0 @@
-# ImprovedRelationalGraphLearning
-Improved RelationalGraphLearning
